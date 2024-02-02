@@ -1,0 +1,48 @@
+Name: ali
+Semester: 2
+Student ID: 41
+Course: Artificial Intelligence
+Name: sdc
+Semester: 
+Student ID: 
+Course: Computer Science
+Name: lo
+Semester: 2
+Student ID: 67
+Course: Artificial Intelligence
+Name: sajeel
+Semester: 2
+Student ID: 50
+Course: Artificial Intelligence
+Name: Ahmad
+Semester: 2
+Student ID: 12
+Course: Artificial Intelligence
+Name: fghj,
+Semester: vbnm,.
+Student ID: bnm,
+Course: Artificial Intelligence
+Name: ali
+Semester: 1
+Student ID: 12
+Course: Artificial Intelligence
+Name: sajell
+Semester: 2
+Student ID: 90
+Course: Artificial Intelligence
+Name: jfjfk
+Semester: 7
+Student ID: 65
+Course: Software Engineering
+Name: jj
+Semester: jj8877888
+Student ID: 
+Course: Artificial Intelligence
+Name: mmazz
+Semester: 2
+Student ID: 12
+Course: Software Engineering
+Name: ramish
+Semester: 2
+Student ID: 23
+Course: Artificial Intelligence
